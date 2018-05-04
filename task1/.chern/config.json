@@ -1,1 +1,1 @@
-{"object_type": "task"}
+{"object_type": "task", "predecessors": ["algorithm"]}
